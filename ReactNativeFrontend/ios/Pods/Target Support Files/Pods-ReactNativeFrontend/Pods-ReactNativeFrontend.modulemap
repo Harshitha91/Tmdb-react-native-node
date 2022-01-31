@@ -1,0 +1,6 @@
+module Pods_ReactNativeFrontend {
+  umbrella header "Pods-ReactNativeFrontend-umbrella.h"
+
+  export *
+  module * { export * }
+}

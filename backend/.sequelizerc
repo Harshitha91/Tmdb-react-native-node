@@ -1,0 +1,9 @@
+require('@babel/register')
+require('@babel/polyfill')
+const path = require('path')
+
+module.exports = {
+  config: path.resolve('api', 'config/config.js'),
+  'migrations-path': path.resolve('api', 'migrations'),
+  'models-path': path.resolve('api', 'models'),
+}

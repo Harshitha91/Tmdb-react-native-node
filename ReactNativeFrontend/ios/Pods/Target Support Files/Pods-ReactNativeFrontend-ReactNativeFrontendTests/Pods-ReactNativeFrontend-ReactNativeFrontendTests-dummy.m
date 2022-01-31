@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ReactNativeFrontend_ReactNativeFrontendTests : NSObject
+@end
+@implementation PodsDummy_Pods_ReactNativeFrontend_ReactNativeFrontendTests
+@end
